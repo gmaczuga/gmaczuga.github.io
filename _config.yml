@@ -30,6 +30,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
+staticmanUrl: https://api.staticman.net/v2/entry/gmaczuga/gmaczuga.github.io/master/comments
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
